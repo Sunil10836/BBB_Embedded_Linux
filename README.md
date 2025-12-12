@@ -1,4 +1,4 @@
-# Counter Using 7-Segment Display | BeagleBone Black (BBB)
+# Counter Using 7-Segment Display and BeagleBone Black (BBB) (Embedded Linux)
 
 This project implements a **Counter** on a **single-digit 7-segment display** using the **BeagleBone Black (BBB)**.
 
