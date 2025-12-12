@@ -1,0 +1,82 @@
+# ============================
+# Eclipse CDT Project Files
+# ============================
+.project
+.cproject
+.settings/
+.loadpath
+.buildpath
+
+# Index & metadata
+.metadata/
+*.launch
+
+# CDT Build folders
+/Debug/
+/Release/
+/Build/
+/build/
+
+# ============================
+# GCC Build Artifacts
+# ============================
+*.o
+*.obj
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+*.a
+*.so
+
+# ============================
+# Executables
+# ============================
+*.exe
+*.run
+
+# ============================
+# Temporary Files
+# ============================
+*.tmp
+*.bak
+*.log
+*~
+*.swp
+
+# ============================
+# OS Generated Files
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# BBB Runtime / Test Outputs
+# ============================
+gpio_output/
+sysfs_export/
+runtime_logs/
+*.pid
+*.txt
+
+# ============================
+# IDE-Specific (Optional)
+# ============================
+
+# VS Code (if you open project in VS Code)
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# CMake (if used in project)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Python helper scripts (common in BBB projects)
+__pycache__/
+*.pyc
